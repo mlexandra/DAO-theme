@@ -14,14 +14,14 @@
     "Material Light": {
       "primary": "000000",
       "secondary": "ffffff",
-      "tertiary": "4527a0",
-      "quaternary": "4527a0",
+      "tertiary": "5F4CA8",
+      "quaternary": "5F4CA8",
       "header_background": "ffffff",
       "header_primary": "333333",
       "highlight": "a18ddf",
       "danger": "e43535",
       "success": "1ca551",
-      "love": "4527a0"
+      "love": "5F4CA8"
     }
   },
   "modifiers": {
