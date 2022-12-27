@@ -58,7 +58,7 @@ h6 {
 #toggle-hamburger-menu i::before,
 #toggle-messages-menu i::before {
     font-size: 24px;
-    color: #4527a0;
+    color: #5F4CA8;
 }
 
 #discord-button,
@@ -111,7 +111,7 @@ h6 {
 }
 
 .badge-notification.new-topic {
-    color: #4527a0;
+    color: #5F4CA8;
 }
 
 .badge-wrapper.bullet {
@@ -157,7 +157,7 @@ h6 {
 
 #create-topic {
     border-radius: 5px;
-    background-color: #4527a0 !important;
+    background-color: #5F4CA8 !important;
     color: #fff;
     display: block;
 }
@@ -187,7 +187,7 @@ h6 {
 }
 
 #navigation-bar .ember-view a.active {
-    background-color: #4527a0 !important;
+    background-color: #5F4CA8 !important;
     color: #fff !important;
 }
 
@@ -212,12 +212,12 @@ h6 {
 
 #navigation-bar .ember-view a:not(.active):hover {
     background-color: #c7bee3 !important;
-    color: #4527a0 !important;
+    color: #5F4CA8 !important;
 }
 
 .mdl-button--icon i {
     line-height: 32px;
-    color: #4527a0;
+    color: #5F4CA8;
 }
 
 #topic-title .title-wrapper {
@@ -303,7 +303,7 @@ h6 {
 #topic-footer-buttons .create.btn {
     float: right;
     border-radius: 5px;
-    background-color: #4527a0 !important;
+    background-color: #5F4CA8 !important;
     margin-right: 0;
     font-family: 'Poppins';
     font-weight: 400;
@@ -326,7 +326,7 @@ h6 {
 }
 
 .alert.alert-info.clickable a {
-    color: #4527a0;
+    color: #5F4CA8;
     font-family: 'Poppins';
     font-weight: 400;
 }
@@ -495,7 +495,7 @@ nav.post-controls button:not(.reply) i::before {
 }
 
 nav.post-controls .double-button button.has-like .d-icon {
-    color: #4527a0;
+    color: #5F4CA8;
 }
 
 // nav.post-controls .double-button button.has-like {}
@@ -570,7 +570,7 @@ aside blockquote {
 }
 
 #topic-progress .nums {
-    color: #4527a0;
+    color: #5F4CA8;
 }
 
 #topic-progress .bg {
@@ -696,7 +696,7 @@ a {
 
 .nav-pills > li a.active {
     color: #fff;
-    background-color: #4527a0;
+    background-color: #5F4CA8;
     border-radius: 5px;
 }
 
@@ -736,8 +736,8 @@ a {
 }
 
 .select-kit.combo-box .select-kit-header.is-focused {
-    border: 1px solid #4527a0;
-    box-shadow: 0 0 0px 0 #4527a0;
+    border: 1px solid #5F4CA8;
+    box-shadow: 0 0 0px 0 #5F4CA8;
     border-radius: 5px;
 }
 
@@ -766,7 +766,7 @@ input[type='url']:focus,
 input[type='search']:focus,
 input[type='tel']:focus,
 input[type='color']:focus {
-    border: 1px solid #4527a0;
+    border: 1px solid #5F4CA8;
     outline: 0;
 }
 
@@ -830,7 +830,7 @@ textarea {
     animation: rotate-forever 0.8s infinite linear;
     height: 30px;
     width: 30px;
-    border: 4px solid #4527a0;
+    border: 4px solid #5F4CA8;
     border-right-color: transparent;
     border-radius: 50%;
 }
