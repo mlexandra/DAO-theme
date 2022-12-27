@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     src: url(https://github.com/itfoundry/poppins);
 }
 
@@ -181,7 +181,7 @@ h6 {
 
 #navigation-bar .ember-view a {
     border-radius: 5px;
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
     color: #444 !important;
 }
@@ -200,7 +200,7 @@ h6 {
 .topic-list.ember-view > thead > tr > th,
 .category-list .category,
 .category-list .topics {
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
     font-size: 16px;
     color: #444;
@@ -253,7 +253,7 @@ h6 {
 }
 
 .small-action .small-action-desc.timegap {
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
 }
 
@@ -305,7 +305,7 @@ h6 {
     border-radius: 5px;
     background-color: #4527a0 !important;
     margin-right: 0;
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
     cursor: pointer;
 }
@@ -327,7 +327,7 @@ h6 {
 
 .alert.alert-info.clickable a {
     color: #4527a0;
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
 }
 
@@ -362,7 +362,7 @@ h6 {
 
 .suggested-topics-title {
     font-size: 18px;
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
     margin: 0;
     padding: 5px 10px;
@@ -379,7 +379,7 @@ h6 {
     font-size: 16px;
     padding: 5px 10px;
     margin: 0;
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
     color: #666;
 }
@@ -436,7 +436,7 @@ h6 {
 }
 
 .actions > .double-button > .like-count {
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
     margin-right: 5px;
 }
@@ -520,7 +520,7 @@ blockquote {
 
 kbd,
 code {
-    font-family: 'Cascadia Code', monospace !important;
+    font-family: 'Poppins', sans-serif !important;
 }
 
 code {
@@ -815,7 +815,7 @@ textarea {
 }
 
 .badge-card .badge-contents .badge-info {
-    font-family: 'Jost';
+    font-family: 'Poppins';
     font-weight: 400;
 }
 
@@ -862,7 +862,7 @@ div.menu-links-header .menu-links-row li a.active {
 }
 
 .search-menu input[type='text'] {
-    font-family: 'Jost';
+    font-family: 'Poppins';
     border-radius: 5px;
     border: 1px #ddd solid;
 }
