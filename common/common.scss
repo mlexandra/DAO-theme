@@ -1,16 +1,16 @@
 @font-face {
-    font-family: 'Cascadia Code';
-    src: url($CascadiaCode) format('woff2');
+    font-family: 'Poppins' 'sans-serif';
+    src: url(https://github.com/itfoundry/poppins);
 }
 
 h1 {
-    font-family: 'Jost';
+    font-family: 'Poppins' 'sans-serif';
     font-weight: 500;
 }
 
 h3 {
     margin: 0;
-    font-family: 'Jost';
+    font-family: 'Poppins' 'sans-serif';
     font-weight: 400;
 }
 
