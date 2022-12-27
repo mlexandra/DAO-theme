@@ -9,7 +9,7 @@
     z-index: 2;
     overflow: auto;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     margin-bottom: 8px;
 }
 
@@ -18,19 +18,19 @@
     margin: 0 auto;
     padding: 15px 0;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .list-controls .nav-pills .navigation-toggle {
     flex: 0 1 auto;
     margin-bottom: 5px;
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px solid #ddd;
 }
 
 #navigation-bar .ember-view a {
-    border-radius: 5px;
-    font-family: 'Jost*';
+    border-radius: 8px;
+    font-family: 'Poppins';
     font-weight: 400;
     padding-left: 8px;
     color: #444 !important;
@@ -38,7 +38,7 @@
 
 .modal-inner-container {
     width: 90%;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 #suggested-topics {
@@ -50,7 +50,7 @@
     clear: left;
     padding: 20px 0 15px 0;
     border: 1px #ddd solid;
-    border-radius: 5px;
+    border-radius: 8px;
     padding-top: 2px;
     margin-bottom: 20px;
 }
