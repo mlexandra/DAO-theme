@@ -88,7 +88,7 @@ h6 {
 
 .category-drop-header,
 .tag-drop-header {
-    border-radius: 5px;
+    border-radius: 8px;
     border-color: #ddd !important;
 }
 
@@ -156,7 +156,7 @@ h6 {
 }
 
 #create-topic {
-    border-radius: 5px;
+    border-radius: 8px;
     background-color: #5F4CA8 !important;
     color: #fff;
     display: block;
@@ -180,7 +180,7 @@ h6 {
 }
 
 #navigation-bar .ember-view a {
-    border-radius: 5px;
+    border-radius: 8px;
     font-family: 'Poppins';
     font-weight: 400;
     color: #444 !important;
@@ -193,7 +193,7 @@ h6 {
 
 .contents.ember-view {
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     overflow: hidden;
 }
 
@@ -231,7 +231,7 @@ h6 {
     margin: 0 auto;
     padding: 15px 0;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .topic-body,
@@ -275,7 +275,7 @@ h6 {
 #topic-footer-button-flag {
     border: 1px solid #ddd;
     background: transparent;
-    border-radius: 5px;
+    border-radius: 8px;
     font-family: 'Poppins';
     font-weight: 400;
     color: #666;
@@ -302,7 +302,7 @@ h6 {
 
 #topic-footer-buttons .create.btn {
     float: right;
-    border-radius: 5px;
+    border-radius: 8px;
     background-color: #5F4CA8 !important;
     margin-right: 0;
     font-family: 'Poppins';
@@ -316,7 +316,7 @@ h6 {
 
 #topic-footer-buttons .topic-notifications-button .btn {
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     background: transparent;
     outline: none !important;
 }
@@ -334,7 +334,7 @@ h6 {
 .alert.alert-info {
     background-color: #fff;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     margin-bottom: 8px;
 }
 
@@ -348,14 +348,14 @@ h6 {
 
 #suggested-topics {
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     padding: 0;
     margin-bottom: 20px;
 }
 
 .suggested-topics {
     border: 1px #ddd solid;
-    border-radius: 5px;
+    border-radius: 8px;
     padding-top: 2px;
     margin-bottom: 20px;
 }
@@ -389,7 +389,7 @@ h6 {
 }
 
 .topic-map {
-    border-radius: 5px;
+    border-radius: 8px;
     background: transparent;
     margin: 0 0 20px 0;
     border: 1px solid #ddd;
@@ -447,7 +447,7 @@ h6 {
 .post-controls button.bookmark,
 .actions > .double-button > .toggle-like {
     padding: 0 7px !important;
-    border-radius: 5px;
+    border-radius: 8px;
     height: 30px;
     margin: 0 5px;
 }
@@ -456,7 +456,7 @@ h6 {
 .post-controls button.show-replies {
     height: 30px;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     font-family: 'Poppins';
     font-weight: 400;
     padding: 0 7px;
@@ -471,11 +471,11 @@ h6 {
 }
 
 .embedded-posts .collapse-up {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .nav.post-controls .post-admin-menu {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 nav.post-controls .actions button {
@@ -483,7 +483,7 @@ nav.post-controls .actions button {
 }
 
 nav.post-controls button {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 nav.post-controls button:active {
@@ -506,7 +506,7 @@ blockquote::before {
 }
 
 blockquote {
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px solid #ddd;
     border-left: 5px solid #ddd;
     font-family: 'Poppins', sans-serif;
@@ -525,7 +525,7 @@ code {
 
 code {
     background-color: #f4f4f4 !important;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: 90% !important;
     padding: 0.3em 0.5em !important;
     white-space: pre;
@@ -537,7 +537,7 @@ pre code {
 
 aside .title {
     line-height: 100%;
-    border-radius: 5px 5px 0 0;
+    border-radius: 8px 8px 0 0;
     border: 1px solid #ddd;
     border-bottom: 0;
     border-left: 5px solid #ddd !important;
@@ -546,16 +546,16 @@ aside .title {
 }
 
 aside blockquote {
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 0 8px 8px;
     border-top: 0;
 }
 
 .lightbox .meta {
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 0 8px 8px;
 }
 
 .select-kit-body {
-    border-radius: 5px !important;
+    border-radius: 8px !important;
     overflow: hidden;
     box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.2) !important;
 }
@@ -566,7 +566,7 @@ aside blockquote {
 
 #topic-progress {
     border: 1px solid #ddd;
-    border-radius: 5px 5px 0 0;
+    border-radius: 8px 8px 0 0;
 }
 
 #topic-progress .nums {
@@ -581,7 +581,7 @@ aside blockquote {
 #topic-footer-buttons .pinned-button .btn {
     background: #fff;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     font-family: 'Poppins';
     font-weight: 400;
     color: #666;
@@ -630,7 +630,7 @@ aside blockquote {
 
 #carbonads {
     border: 1px solid #ddd !important;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .carbon-img img {
@@ -641,7 +641,7 @@ aside blockquote {
     padding: 10px !important;
     margin: 0;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     margin-bottom: 15px;
 }
 
@@ -651,7 +651,7 @@ aside blockquote {
 
 .post-notice {
     background: #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     max-width: 100%;
 }
 
@@ -697,19 +697,19 @@ a {
 .nav-pills > li a.active {
     color: #fff;
     background-color: #5F4CA8;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .btn-primary {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .nav-pills > li > a {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .btn {
-    border-radius: 5px;
+    border-radius: 8px;
     display: inline-flex;
 }
 
@@ -732,23 +732,23 @@ a {
 }
 
 .bootbox.modal {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .select-kit.combo-box .select-kit-header.is-focused {
     border: 1px solid #5F4CA8;
     box-shadow: 0 0 0px 0 #5F4CA8;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .select-kit.combo-box .select-kit-header {
     background: #fff;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 #reply-control #reply-title {
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px solid #ddd;
 }
 
@@ -785,13 +785,13 @@ input[type='search'],
 input[type='tel'],
 input[type='color'] {
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 input,
 textarea {
     margin-left: 0;
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px #ddd solid;
 }
 
@@ -799,17 +799,17 @@ textarea {
 .menu-panel li a.widget-link:focus,
 .menu-panel li.heading a.widget-link:hover,
 .menu-panel li.heading a.widget-link:focus {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .badge-card.medium {
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px #ddd solid;
     background-color: white;
 }
 
 .badge-card {
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px #ddd solid;
     background-color: white;
 }
@@ -837,7 +837,7 @@ textarea {
 
 #user-card.show,
 #group-card.show {
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .timeline-container .topic-timeline {
@@ -858,12 +858,12 @@ div.menu-links-header .menu-links-row li a.active {
     border: 1px solid #e6e6e6;
     border-bottom: 1px #fff solid;
     position: relative;
-    border-radius: 5px 5px 0 0;
+    border-radius: 8px 8px 0 0;
 }
 
 .search-menu input[type='text'] {
     font-family: 'Poppins';
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px #ddd solid;
 }
 
@@ -873,13 +873,13 @@ div.menu-links-header .menu-links-row li a.active {
 
 .user-menu .quick-access-panel li:hover,
 .user-menu .quick-access-panel li:focus {
-    border-radius: 5px;
+    border-radius: 8px;
     transition: background 0.3s;
 }
 
 .user-menu .quick-access-panel li {
     background-color: #e1d9f6;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 i.fa.fa-shield-alt.d-icon.d-icon-shield-alt:before {
