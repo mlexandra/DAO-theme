@@ -1,5 +1,6 @@
 .alert.alert-info {
     margin-bottom: 16px;
+    border: 0px;
 }
 
 #banner {
@@ -22,10 +23,11 @@
 }
 
 .list-controls .nav-pills .navigation-toggle {
-    flex: 0 0 auto;
+    flex: 0 1 auto;
     margin-bottom: 8px;
     border-radius: 8px;
-    border: 0px solid #ddd;
+    border: 0px;
+    // border: 0px solid #ddd;
 }
 
 #navigation-bar .ember-view a {
@@ -38,7 +40,8 @@
 
 .modal-inner-container {
     width: 94%;
-    border: 0px #ddd solid;
+    border: 0px;
+    // border: 0px #ddd solid;
     border-radius: 8px;
 }
 
@@ -50,7 +53,8 @@
 .suggested-topics {
     clear: center;
     padding: 16px;
-    border: 0px #ddd solid;
+    border: 0px;
+    // border: 0px #ddd solid;
     border-radius: 8px;
     padding-top: 2px;
     margin-bottom: 24px;
@@ -58,6 +62,7 @@
 
 .loading-container.ember-view {
     width: 94%;
+    border: 0px;
     margin: 0 auto;
 }
 
