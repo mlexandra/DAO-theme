@@ -15,23 +15,23 @@ h3 {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 40px;
     margin: 0.67em 0;
 }
 h2 {
-    font-size: 2em;
+    font-size: 32px;
     margin: 0.75em 0;
 }
 h3 {
-    font-size: 1em;
+    font-size: 24px;
     margin: 0.5em 0;
 }
 h5 {
-    font-size: 1em;
+    font-size: 16px;
     margin: 0.5em 0;
 }
 h6 {
-    font-size: 1em;
+    font-size: 16px;
     margin: 0.5em 0;
 }
 h1,
@@ -516,7 +516,7 @@ blockquote {
     font-weight: 300;
     line-height: 1.35;
     font-style: normal;
-    letter-spacing: 0.08em;
+    letter-spacing: 24px;
 }
 
 kbd,
@@ -884,13 +884,13 @@ div.menu-links-header .menu-links-row li a.active {
 }
 
 i.fa.fa-shield-alt.d-icon.d-icon-shield-alt:before {
-    font-size: 1.2em;
+    font-size: 16px;
     vertical-align: middle;
     padding-left: 4px;
 }
 
 .topic-avatar i.fa.fa-far-eye-slash.d-icon.d-icon-far-eye-slash::before {
-    font-size: 1em;
+    font-size: 16px;
     padding-left: 10px;
 }
 
@@ -899,7 +899,7 @@ i.fa.fa-shield-alt.d-icon.d-icon-shield-alt:before {
 .topic-avatar i.fa.fa-user-plus.d-icon.d-icon-user-plus:before,
 .topic-avatar i.fa.fa-lock.d-icon.d-icon-lock::before,
 .topic-avatar i.fa.fa-unlock-alt.d-icon.d-icon-unlock-alt::before {
-    font-size: 2em;
+    font-size: 24px;
     padding-left: 10px;
 }
 
