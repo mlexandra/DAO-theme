@@ -75,6 +75,7 @@ h6 {
 #toggle-hamburger-menu:hover,
 #current-user:hover,
 #toggle-messages-menu:hover {
+    color: #444;
     background-color: #eee !important;
 }
 
@@ -83,7 +84,7 @@ h6 {
 }
 
 .header-dropdown-toggle a:hover {
-    background: transparent !important;
+    background: #eee !important;
 }
 
 .category-drop-header,
