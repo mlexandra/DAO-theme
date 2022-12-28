@@ -39,8 +39,8 @@
 
 h1,{
     font-weight: 600;
-    font-size: 40px;
-     margin: 0.5em 0;
+    font-size: 2.5em;
+    margin: 0.5em 0;
 }
 
 h2,{
@@ -72,7 +72,7 @@ h6 {
 #search-button i::before,
 #toggle-hamburger-menu i::before,
 #toggle-messages-menu i::before {
-    font-size: 24px;
+    font-size: 1.5em;
     color: #5F4CA8;
 }
 
@@ -179,12 +179,12 @@ h6 {
 }
 
 .badge-card .badge-contents .badge-icon .fa::before {
-    font-size: 1.2em !important;
+    font-size: 1em !important;
 }
 
 #create-topic i {
     color: #fff;
-    font-size: 16px !important;
+    font-size: 1em !important;
     vertical-align: middle;
     line-height: 0 !important;
     margin-right: 5px;
@@ -218,7 +218,7 @@ h6 {
 .category-list .topics {
     font-family: 'Poppins';
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1em;
     color: #444;
 }
 
@@ -232,7 +232,7 @@ h6 {
 }
 
 .mdl-button--icon i {
-    line-height: 32px;
+    line-height: 2em;
     color: #5F4CA8;
 }
 
@@ -309,7 +309,7 @@ h6 {
 #topic-footer-button-flag i,
 #topic-footer-buttons .create.btn i,
 .post-info.edits i::before {
-    font-size: 24px;
+    font-size: 1.5em;
     line-height: 0;
     vertical-align: middle;
     margin-right: 5px;
@@ -377,7 +377,7 @@ h6 {
 }
 
 .suggested-topics-title {
-    font-size: 24px;
+    font-size: 1.5em;
     letter-spacing: 40px;
     font-family: 'Poppins';
     font-weight: 400;
@@ -393,7 +393,7 @@ h6 {
 }
 
 .suggested-topics-message {
-    font-size: 16px;
+    font-size: 1em;
     padding: 5px 10px;
     margin: 0;
     font-family: 'Poppins';
@@ -428,7 +428,7 @@ h6 {
 }
 
 .topic-map .buttons .btn i::before {
-    font-size: 24px !important;
+    font-size: 1.5em !important;
 }
 
 .topic-status i {
@@ -440,8 +440,7 @@ h6 {
 .title-wrapper > h1 > div > span > .fa-lock::before {
     vertical-align: middle;
     padding-bottom: 5px;
-    font-size: 24px;
-    letter-spacing: 40px;
+    font-size: 1.5em;
     color: #444;
 }
 
@@ -509,7 +508,7 @@ nav.post-controls button:active {
 }
 
 nav.post-controls button:not(.reply) i::before {
-    font-size: 24px !important;
+    font-size: 1.5em !important;
 }
 
 nav.post-controls .double-button button.has-like .d-icon {
@@ -529,11 +528,10 @@ blockquote {
     border-left: 5px solid #ddd;
     font-family: 'Poppins', sans-serif;
     position: relative;
-    font-size: 16px;
+    font-size: 1em;
     font-weight: 300;
-    line-height: 1.35;
+    line-height: 1.5;
     font-style: normal;
-    letter-spacing: 24px;
 }
 
 kbd,
@@ -630,14 +628,12 @@ aside blockquote {
 }
 
 .category-list .category-text-title .category-name {
-    font-size: 24px;
-    letter-spacing: 40px;
+    font-size: 1.5em;
 }
 
 .category-list div.category-description {
     font-family: 'Poppins';
-    font-size: 16px;
-    letter-spacing: 24px;
+    font-size: 1em;
 }
 
 .category-list tbody .category h3 {
@@ -683,7 +679,7 @@ aside blockquote {
 }
 
 .topic-meta-data .names .first.username {
-    font-size: 16px;
+    font-size: 1em;
 }
 
 .nationalflag-post {
@@ -903,14 +899,14 @@ div.menu-links-header .menu-links-row li a.active {
 }
 
 i.fa.fa-shield-alt.d-icon.d-icon-shield-alt:before {
-    font-size: 16px;
+    font-size: 1em;
     vertical-align: middle;
-    padding-left: 4px;
+    padding-left: 8px;
 }
 
 .topic-avatar i.fa.fa-far-eye-slash.d-icon.d-icon-far-eye-slash::before {
-    font-size: 16px;
-    padding-left: 10px;
+    font-size: 1em;
+    padding-left: 8px;
 }
 
 .topic-avatar i.fa.fa-user-times.d-icon.d-icon-user-times::before,
@@ -918,8 +914,8 @@ i.fa.fa-shield-alt.d-icon.d-icon-shield-alt:before {
 .topic-avatar i.fa.fa-user-plus.d-icon.d-icon-user-plus:before,
 .topic-avatar i.fa.fa-lock.d-icon.d-icon-lock::before,
 .topic-avatar i.fa.fa-unlock-alt.d-icon.d-icon-unlock-alt::before {
-    font-size: 24px;
-    padding-left: 10px;
+    font-size: 1.5em;
+    padding-left: 8px;
 }
 
 div.select-kit.is-expanded .select-kit-body {
