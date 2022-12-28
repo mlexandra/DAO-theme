@@ -8,13 +8,13 @@
     color: #000;
     z-index: 2;
     overflow: auto;
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     border-radius: 8px;
     margin-bottom: 8px;
 }
 
 .posts-wrapper {
-    width: 98%;
+    width: 100%;
     margin: 0 auto;
     padding: 16px 0;
     border: 0px solid #ddd;
@@ -38,6 +38,7 @@
 
 .modal-inner-container {
     width: 94%;
+    border: 0px #ddd solid;
     border-radius: 8px;
 }
 
