@@ -1,5 +1,5 @@
 .alert.alert-info {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 #banner {
@@ -16,14 +16,14 @@
 .posts-wrapper {
     width: 98%;
     margin: 0 auto;
-    padding: 15px 0;
+    padding: 16px 0;
     border: 1px solid #ddd;
     border-radius: 8px;
 }
 
 .list-controls .nav-pills .navigation-toggle {
     flex: 0 1 auto;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
     border-radius: 8px;
     border: 1px solid #ddd;
 }
@@ -48,11 +48,11 @@
 
 .suggested-topics {
     clear: left;
-    padding: 20px 0 15px 0;
+    padding: 24px 8px 16px 8px;
     border: 1px #ddd solid;
     border-radius: 8px;
     padding-top: 2px;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 }
 
 .loading-container.ember-view {
