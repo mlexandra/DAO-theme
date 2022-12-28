@@ -17,7 +17,7 @@
     width: 98%;
     margin: 0 auto;
     padding: 16px 0;
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     border-radius: 8px;
 }
 
@@ -25,7 +25,7 @@
     flex: 0 1 auto;
     margin-bottom: 8px;
     border-radius: 8px;
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
 }
 
 #navigation-bar .ember-view a {
@@ -49,7 +49,7 @@
 .suggested-topics {
     clear: center;
     padding: 16px;
-    border: 1px #ddd solid;
+    border: 0px #ddd solid;
     border-radius: 8px;
     padding-top: 2px;
     margin-bottom: 24px;
